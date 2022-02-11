@@ -1,0 +1,9 @@
+certifi==2021.10.8
+charset-normalizer==2.0.11
+greenlet==1.1.2
+idna==2.10
+psycopg2-binary==2.9.3
+pyTelegramBotAPI==4.3.1
+requests==2.25.1
+SQLAlchemy==1.4.31
+urllib3==1.26.3
